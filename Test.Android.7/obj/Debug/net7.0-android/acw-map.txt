@@ -1,3 +1,0 @@
-Test.Android._7.MainActivity, Test.Android.7;crc64dbc52c8740aea79b.MainActivity
-Test.Android._7.MainActivity;crc64dbc52c8740aea79b.MainActivity
-test.android._7.MainActivity;crc64dbc52c8740aea79b.MainActivity

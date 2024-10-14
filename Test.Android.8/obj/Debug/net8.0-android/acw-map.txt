@@ -1,3 +1,0 @@
-Test.Android._8.MainActivity, Test.Android.8;crc64a22b04760a672011.MainActivity
-Test.Android._8.MainActivity;crc64a22b04760a672011.MainActivity
-test.android._8.MainActivity;crc64a22b04760a672011.MainActivity
