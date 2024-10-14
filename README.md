@@ -1,6 +1,7 @@
 This is a test project for GitHub bug https://github.com/dotnet/runtime/issues/108762
 
 Below is the list of projects:
+
 Test.Maui.7 -> DotNet 7 Maui app (no leak - See results below after 10 min)
 ![image](https://github.com/user-attachments/assets/5ca3cc11-2f16-4cd2-912f-d3f8b3ef692f)
 
